@@ -1,0 +1,10 @@
+OS:Raspian
+sudo apt-get install puredata (installation de puredata)
+sudo apt-get install pd-zexy pd-pdstring pd-comport (installation des libraries)
+
+Dans le fichier /etc/rc.local qui permet de lancer un programme en au boot du r$
+pd -nogui -audiodev 3 -audiobuf 1000 -lib pdstring -lib comport -lib zexy -open$
+
+"art-installation" est le répertoire dans lequel je met l'ensemble des patchs e$
+
+

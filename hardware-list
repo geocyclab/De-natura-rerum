@@ -1,0 +1,12 @@
+Arduino Uno
+Midi Sprout sheild (homemade)
+MIDI USB inteface
+Raspberry Pi
+USB audio inteface
+Sound system ended by a 3.5 mm stereo jack
+Arduino nano (as timer for light)
+Warm white Ledstrip (3m)
+
+Power supply 5V 3A (Rasperry)
+Power supply 5V 2A (arduino + fan)
+Power supply 12V 3A (ledstrip)
